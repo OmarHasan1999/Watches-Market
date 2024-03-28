@@ -1,0 +1,282 @@
+.detailPage{
+    width: 100%;
+    min-height: 100vh;
+    justify-content: space-between;
+}
+.sectionOne{
+    display: flex;
+    flex-direction: column;
+    margin-left: 100vh;
+    padding-top: 18%;
+    padding-left: 18%;
+}
+.sectionOne h3{
+    font-size: 18px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.821);
+    padding-bottom: 7px;
+    margin-left: -3vh;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sectionOne p{
+    padding-bottom: 7px;
+    color: rgba(0, 0, 0, 0.835);
+    font-size: 14px;
+    margin-left: -3vh;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sectionOne span{
+    padding-bottom: 5px;
+    margin-left: -3vh;
+    color: rgba(0, 0, 0, 0.807);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.buyNow{
+    padding: 1.6vh 4vh;
+    border: 1px solid black;
+    background-color: #fff;
+    color: rgba(0, 0, 0, 0.744);
+    font-size: 16px;
+    text-align: center;
+    cursor:pointer;
+    margin-right: 60vh;
+    margin-left: -16vh;
+    margin-top: 1.3vh;
+    font-weight: 500;
+    font-size: 15px;
+}
+.buyNow i{
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.859);
+    padding-right: 7px;
+}
+.buyNow:hover{
+    background-color: black;
+    color: white;
+}
+.buyNow:hover i{
+    background-color: black;
+    color: white;
+}
+.sectionOne h4{
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+    margin-left: -1vh;
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.enqOne{
+    border: 1px solid black;
+    background-color: #fff;
+    color: rgba(0, 0, 0, 0.744);
+    font-size: 16px;
+    text-align: center;
+    margin-right: 77.8vh;
+    margin-left: -16vh;
+    font-weight: 500;
+    font-size: 14px;
+    padding-top: 1.4vh;
+    padding-bottom: 1.6vh;
+    padding-left: 0.5vh;
+    padding-right: 0.5vh;
+    cursor: pointer;
+}
+.enqOne:hover{
+    background-color: black;
+    color: white;
+}
+.enqOne:hover i{
+    color: white;
+}
+.enqOne i{
+    font-size: 18px;
+    padding-top: 1vh;
+    color: black;
+}
+.enqTwo i{
+    font-size: 18px;
+    padding-top: 1vh;
+    color: black;
+    margin-left: -3vh;
+    margin-top: -1.5vh;
+}
+.enqTwo span{
+    margin-left: 1.5vh;
+    display: flex;
+    margin-top: 1vh;
+    color: rgba(0, 0, 0, 0.64);
+}
+.enqTwo:hover span {
+    color: #fff;
+}
+.enqTwo:hover i {
+    color: #fff;
+}
+.enqTwo{
+    border: 1px solid black;
+    background-color: #fff;
+    color: rgba(0, 0, 0, 0.744);
+    height: 8vh;
+    font-size: 16px;
+    margin-right: 126vh;
+    margin-left: 4.5vh;
+    margin-top: -8vh;
+    font-weight: 500;
+    font-size: 14px;
+    padding-top: 0.7vh;
+    padding-left: 5.5vh;
+    padding-right: 12.5vh;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.enqTwo:hover{
+    background-color: black;
+    color: white;
+}
+.sectionTwo{
+    display: flex;
+    flex-direction: column;
+    margin-right: 100vh;
+    margin-top: -53vh;
+    padding-left: 15%;
+}
+.sectionTwo .mainImg{
+    width: 70vh;
+    height: 55vh;
+    
+}
+.containerImg{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 70vh;
+    height: 30vh;
+    margin-left: 0vh;
+}
+.miniImg{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 85%;
+    margin-left: 0vh;
+    margin-top: 8vh;
+    cursor: pointer;
+}
+.miniImg img{
+    width: 18vh;
+    height: 12vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding-left: 7vh;
+    padding-bottom: 3vh;
+}
+.sectionTwo .detailHeading{
+    margin-top: 9vh;
+    margin-bottom: 2vh;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.886);
+    font-weight: 600;
+    margin-left: 20vh;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.theDetails{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 20vh;
+}
+.firstList{
+    display: flex;
+    flex-direction: column;
+}
+.firstList ul{
+    list-style-type: none;
+    font-size: 13px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.762);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.firstList ul li{
+    padding-bottom: 1vh;
+}
+.secondList{
+    display: flex;
+    flex-direction: column;
+}
+.secondList ul{
+    list-style-type: none;
+    font-size: 13px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.762);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.secondList ul li{
+    padding-bottom: 1vh;
+}
+.Description{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.958);
+    font-weight: 600;
+    margin-left: 20vh;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.descParagraph{
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.702);
+    margin-left: 20vh;
+    width: 125%;
+    line-height: 23px;
+    font-size: 13px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fullView{
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    height: 270%;
+    background-color: rgba(0, 0, 0, 0.897);
+}
+.grandImg{
+    width: 90vh;
+    height: 70vh;
+    margin-top: 22vh;
+    margin-left: 70vh;
+}
+#closeImg{
+    cursor: pointer;
+    font-size: 5vh;
+    position: absolute;
+    top: 5%;
+    right: 14.5%;
+    color: #ffffffb9;
+    
+}
+#right{
+    cursor: pointer;
+    font-size: 5vh;
+    position: absolute;
+    top: 20%;
+    right: 13%;
+    color: #ffffffb9;
+    cursor:pointer
+}
+#left{
+    cursor: pointer;
+    font-size: 5vh;
+    position: absolute;
+    top: 20%;
+    left: 13%;
+    color: #ffffffb9;
+    cursor:pointer
+}

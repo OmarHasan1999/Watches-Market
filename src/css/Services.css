@@ -1,0 +1,154 @@
+.services{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100vh;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 0%;
+    padding-right: 10%;
+    padding-top: 8%;
+}
+.services h4{
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.911);
+    font-weight: 600;
+    margin-right: 70vh;
+    margin-bottom: 5vh;
+}
+.serviceOne{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid black;
+    border-left: 0;
+    border-right: 0;
+    width: 110vh;
+    height: 40vh;
+    margin-right: -20vh;
+    margin-top: 1vh;
+}
+.serviceOne h4{
+    cursor: pointer;
+}
+.serviceOne .plus{
+   font-size: 25px;
+   font-weight: 400;
+   margin-top: -17vh;
+   margin-left: 17vh;
+    cursor: pointer;
+}
+.serviceOne p{
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: -108vh;
+    margin-top: 15vh;   
+    width: 95%; 
+    height: 25vh;
+    line-height: 22px;
+}
+
+.serviceTwo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid black;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    width: 110vh;
+    height: 40vh;
+    margin-right: -20vh;
+    margin-top: 1vh;
+}
+
+.serviceTwo h4{
+    cursor: pointer;
+}
+.serviceTwo .plusTwo{
+   font-size: 25px;
+   font-weight: 400;
+   margin-top: -17vh;
+   margin-left: 19.7vh;
+    cursor: pointer;
+}
+.serviceTwo p{
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: -108vh;
+    margin-top: 14vh;   
+    width: 85%; 
+    height: 25vh;
+    line-height: 23px;
+}
+
+
+
+.serviceThree{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid black;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    width: 110vh;
+    height: 28vh;
+    margin-right: -20vh;
+    margin-top: 1vh;
+}
+.serviceThree h4{
+    cursor: pointer;
+}
+.serviceThree .plusThree{
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: -18vh;
+    margin-left: 17vh;
+     cursor: pointer;
+ }
+ .serviceThree p{
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: -108vh;
+    margin-top: 13vh;   
+    width: 78%; 
+    height: 25vh;
+    line-height: 23px;
+}
+
+
+
+.serviceFour{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid black;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    width: 110vh;
+    height: 25vh;
+    margin-right: -20vh;
+    margin-top: 1vh;
+}
+.serviceFour h4{
+    cursor: pointer;
+    margin-bottom: 17vh;
+}
+.serviceFour .plusFour{
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: -17.5vh;
+    margin-left: 8vh;
+     cursor: pointer;
+ }
+ .serviceFour p{
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: -109vh;
+    margin-top: 13vh;   
+    width: 82%; 
+    height: 25vh;
+    line-height: 23px;
+}

@@ -1,0 +1,75 @@
+.homeSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.homeSection select{
+    width: 45%;
+    margin-bottom: 30vh;
+    height: 7.5vh;
+    border: 1px solid black;
+    padding-left: 2vh;
+    font-size: 14px;
+    font-weight: 600;
+    padding-right: 5vh;
+    color: rgba(0, 0, 0, 0.738);
+    cursor: pointer;
+    position: absolute;
+    top: 17%;
+}
+
+.homeSection.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 400vh;
+}
+.products{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 32vh;
+    flex-wrap: wrap;
+    width: 75%;
+    margin-left: 22vh;
+    cursor: pointer;
+    margin-left: 26vh;
+    
+}
+.products.watchBox{
+    width: 400vh;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.watchBox img{
+    width: 50vh;
+    height: 42vh;
+}
+.brand{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20vh;
+    margin-bottom: 2vh;
+}
+.brand h3{
+    font-size: 14px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.867);
+    padding-bottom: 4px;
+}
+.brand p{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.867);
+    padding-bottom: 4px;
+}
+

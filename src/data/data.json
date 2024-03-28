@@ -1,0 +1,4339 @@
+{
+  "allWatches" : [
+    {
+      "id" : 1,
+      "img" : "../../../../../../../../src/assets/watches img/Watche1.png",
+      "brand" : "Rolex",
+      "model" : "Datejust 41",
+      "price" : "$11,500",
+      "modelNumber" : "4600E/110A-B480",
+      "SKU" : "478714",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche11.png"
+        },
+        {
+            "id" : 2,
+            "img" : "../../../../../../../../src/assets/watches img/Watche41.png"
+        },
+        {
+            "id" : 3,
+            "img" : "../../../../../../../../src/assets/watches img/Watche61.png"
+             },
+             {
+            "id" : 4,
+            "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+           },
+           {
+            "id" : 5,
+            "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+         },
+         {
+            "id" : 6,
+            "img" : "../../../../../../../../src/assets/watches img/Watche30.png"
+         }
+
+      ],
+      "listOfDetails" : ["SKU","Model","Reference","Case","Crystal","Thickness","Lug Width","Lug To Lug Width","Water Resistance","Bracelet/Strap","Clasp/Buckle","Year","Manufactured"],
+      "Accessories" : "The watch comes as a complete set with box and papers.",
+      "Warranty" : "The original manufacturer’s warranty is valid until January 2025.",
+      "Condition" : "The watch is in excellent condition, with only very light surface wear visible on the case and bracelet.",
+      "description": "For your consideration is this Vacheron Constantin Fiftysix,a watch with a retro yet highly modern style that makes for a perfect everyday timepiece."
+    },
+    {
+      "id" : 2,
+      "img" : "../../../../../../../../src/assets/watches img/Watche2.png",
+      "brand" : "Omega",
+      "model" : "Presage",
+      "price" : "$6,000",
+      "modelNumber" : "4600E/110A-B487",
+      "SKU" : "478715",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche38.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche16.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche27.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche14.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche33.png"
+       }
+      ],
+      "listTwo" : ["Stainless steel","Sapphire crystal","10mm","20mm","48mm","30 metres","Stainless steel","Stainless steel inner folding clasp","2023","Switzerland"],
+      "description": "Features include a deep blue dial with sunburst finish, luminous hour/minute hands, running centre seconds, quick-set date and sapphire display case back"
+    },
+    {
+      "id" : 3,
+      "img" : "../../../../../../../../src/assets/watches img/Watche3.png",
+      "brand" : "Zenith",
+      "model" : "El Primero",
+      "price" : "$12,000",
+      "modelNumber" : "4600E/110A-B486",
+      "SKU" : "478706",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche43.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche18.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche43.png"
+       }
+      ],
+      "description": "The stainless steel bracelet features a double folding clasp with two button safety release system."
+    },
+    {
+      "id" : 4,
+      "img" : "../../../../../../../../src/assets/watches img/Watche4.png",
+      "brand" : "Oris",
+      "model" : "Aquis",
+      "price" : "$25,000",
+      "modelNumber" : "4600E/110A-B455",
+      "SKU" : "478739",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche14.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche41.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche10.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche21.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche31.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche40.png"
+       }
+      ],
+      "description" : "Powering the watch is the VC automatic calibre 1326 beating at 28,800 VPH, with a power reserve of 48 hours and hacking seconds function"
+    },
+    {
+      "id" : 5,
+      "img" : "../../../../../../../../src/assets/watches img/Watche5.png",
+      "brand" : "Rolex",
+      "model" : "Submariner",
+      "price" : " $10,000",
+      "modelNumber" : "4600E/110A-B454",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche15.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche19.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche29.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche45.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche61.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+       }
+      ],
+      "SKU" : "478714"
+    },
+    {
+      "id" : 6,
+      "img" : "../../../../../../../../src/assets/watches img/Watche6.png",
+      "brand" : "Omega",
+      "model" : "Seamaster Diver 300M",
+      "price" : "$7,000",
+      "modelNumber" : "4600E/110A-B443",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche8.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche48.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche30.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche17.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche33.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche39.png"
+       }
+      ],
+      "SKU" : "478743"
+    },
+    {
+      "id" : 7,
+      "img" : "../../../../../../../../src/assets/watches img/Watche20.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR 02",
+      "price" : "$8,000",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche60.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche10.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche44.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+       }
+      ],
+      "SKU" : "478719"
+    },
+    {
+      "id" : 8,
+      "img" : "../../../../../../../../src/assets/watches img/Watche28.png",
+      "brand" : "Akrivia",
+      "model" : "AK-07",
+      "price" : "$90",
+      "modelNumber" : "4600E/110A-B432",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche29.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche34.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche50.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche51.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche12.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+       }
+      ],
+      "SKU" : "478714"
+    },
+    {
+      "id" : 9,
+      "img" : "../../../../../../../../src/assets/watches img/Watche9.png",
+      "brand" : "Oris",
+      "model" : "Big Crown ProPilot",
+      "price" : "$3,000",
+      "modelNumber" : "4600E/110A-B443",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche60.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche41.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche57.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche17.png"
+       }
+      ],
+      "SKU" : "478712"
+    },
+    {
+      "id" : 10,
+      "img" : "../../../../../../../../src/assets/watches img/Watche10.png",
+      "brand" : "Cartier",
+      "model" : "Tank",
+      "price" : "$5,500",
+      "modelNumber" : "4600E/110A-B490",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche22.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche44.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche33.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+       }
+      ],
+      "SKU" : "478769"
+    },
+    {
+      "id" : 11,
+      "img" : "../../../../../../../../src/assets/watches img/Watche11.png",
+      "brand" : "Rolex",
+      "model" : "Daytona",
+      "price" : "$15,000",
+      "modelNumber" : "4600E/110A-B411",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche31.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche11.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche41.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche20.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+       }
+      ],
+      "SKU" : "478753"
+    },
+    {
+      "id" : 12,
+      "img" : "../../../../../../../../src/assets/watches img/Watche12.png",
+      "brand" : "Timex",
+      "model" : "Fairfield",
+      "price" : "$70",
+      "modelNumber" : "4600E/110A-B408",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche45.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche56.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche44.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche59.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche54.png"
+       }
+      ],
+      "SKU" : "478757"
+    },
+    {
+      "id" : 13,
+      "img" : "../../../../../../../../src/assets/watches img/Watche13.png",
+      "brand" : "Oris",
+      "model" : "Divers Sixty-Five",
+      "price" : "$2,000",
+      "modelNumber" : "4600E/110A-B432",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche54.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche32.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche30.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche6.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche4.png"
+       }
+      ],
+      "SKU" : "478714"
+    },
+    {
+      "id" : 14,
+      "img" : "../../../../../../../../src/assets/watches img/Watche14.png",
+      "brand" : "Zenith",
+      "model" : "Pilot Type 20",
+      "price" : "$11,000",
+      "modelNumber" : "4600E/110A-B427",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche18.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche17.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche20.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche32.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche42.png"
+       }
+      ],
+      "SKU" : "478777"
+    },
+    {
+      "id" : 15,
+      "img" : "../../../../../../../../src/assets/watches img/Watche15.png",
+      "brand" : "Rolex",
+      "model" : "GMT-Master II",
+      "price" : "$12,000",
+      "modelNumber" : "4600E/110A-B478",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche50.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche60.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche20.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche47.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche59.png"
+       }
+      ],
+      "SKU" : "478773"
+    },
+    {
+      "id" : 16,
+      "img" : "../../../../../../../../src/assets/watches img/Watche16.png",
+      "brand" : "Timex",
+      "model" : "Weekender",
+      "price" : "$40",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche36.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche46.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche58.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche41.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche44.png"
+       }
+      ],
+      "SKU" : "478700"
+    },
+    {
+      "id" : 17,
+      "img" : "../../../../../../../../src/assets/watches img/Watche17.png",
+      "brand" : "Swatch",
+      "model" : "Originals",
+      "price" : "$50",
+      "modelNumber" : "4600E/110A-B483",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche19.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche29.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche11.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche38.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche48.png"
+       }
+      ],
+      "SKU" : "478717"
+    },
+    {
+      "id" : 18,
+      "img" : "../../../../../../../../src/assets/watches img/Watche18.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR V2",
+      "price" : "$7,000",
+      "modelNumber" : "4600E/110A-B480",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche54.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche7.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche47.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche51.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche60.png"
+       }
+      ],
+      "SKU" : "478733"
+    },
+    {
+      "id" : 19,
+      "img" : "../../../../../../../../src/assets/watches img/Watche19.png",
+      "brand" : "Swatch",
+      "model" : "Sistem51",
+      "price" : "$200",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche31.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche41.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche4.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche50.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche61.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche16.png"
+       }
+      ],
+      "SKU" : "478714"
+    },
+    {
+      "id" : 20,
+      "img" : "../../../../../../../../src/assets/watches img/Watche20.png",
+      "brand" : "Timex",
+      "model" : "Ironman",
+      "price" : "$75,00",
+      "modelNumber" : "4600E/110A-B431",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche42.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche17.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche27.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche57.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche34.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche24.png"
+       }
+      ],
+      "SKU" : "478714"
+    },
+    {
+      "id" : 21,
+      "img" : "../../../../../../../../src/assets/watches img/Watche21.png",
+      "brand" : "Zenith",
+      "model" : "Chronomaster",
+      "price" : "$13,000",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche50.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche37.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche59.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche28.png"
+       }
+      ],
+      "SKU" : "478718"
+    },
+    {
+      "id" : 22,
+      "img" : "../../../../../../../../src/assets/watches img/Watche22.png",
+      "brand" : "Swatch",
+      "model" : "Sistem51",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche48.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche52.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche36.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche61.png"
+       }
+      ],
+      "price" : "$100",
+      "modelNumber" : "4600E/110A-B411",
+      "SKU" : "478713"
+    },
+    {
+      "id" : 23,
+      "img" : "../../../../../../../../src/assets/watches img/Watche23.png",
+      "brand" : "Rolex",
+      "model" : "Explorer",
+      "price" : "$9,000",
+      "modelNumber" : "4600E/110A-B404",
+      "imgGroup" : [
+        {
+          "id" : 1,
+          "img" : "../../../../../../../../src/assets/watches img/Watche37.png"
+      },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche39.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche50.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche20.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche12.png"
+       }
+      ],
+      "SKU" : "478724"
+    },
+    {
+      "id" : 24,
+      "img" : "../../../../../../../../src/assets/watches img/Watche24.png",
+      "brand" : "Omega",
+      "model" : "Seamaster Planet Ocean",
+      "price" : "$1,000",
+      "modelNumber" : "4600E/110A-B414",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche26.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche36.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche30.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche14.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche43.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche56.png"
+       }
+      ],
+      "SKU" : "478744"
+    },
+    {
+      "id" : 25,
+      "img" : "../../../../../../../../src/assets/watches img/Watche25.png",
+      "brand" : "Oris",
+      "model" : "Artelier",
+      "price" : "$2,200",
+      "modelNumber" : "4600E/110A-B403",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche60.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche8.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche18.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche28.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche38.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche48.png"
+       }
+      ],
+      "SKU" : "478730"
+    },
+    {
+      "id" : 26,
+      "img" : "../../../../../../../../src/assets/watches img/Watche26.png",
+      "brand" : "Timex",
+      "model" : "Waterbury",
+      "price" : "$120",
+      "modelNumber" : "4600E/110A-B436",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche6.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche16.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche26.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche36.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche46.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche56.png"
+       }
+      ],
+      "SKU" : "478705"
+    },
+    {
+      "id" : 27,
+      "img" : "../../../../../../../../src/assets/watches img/Watche27.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR 01",
+      "price" : "$6,000",
+      "modelNumber" : "4600E/110A-B418",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche11.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche21.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche11.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche31.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche41.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche51.png"
+       }
+      ],
+      "SKU" : "478736"
+    },
+    {
+      "id" : 28,
+      "img" : "../../../../../../../../src/assets/watches img/Watche28.png",
+      "brand" : "Cartier",
+      "model" : "Ballon Bleu",
+      "price" : "$6,00",
+      "modelNumber" : "4600E/110A-B481",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche39.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche44.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche4.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche54.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche24.png"
+       }
+      ],
+      "SKU" : "478714"
+    },
+    {
+      "id" : 29,
+      "img" : "../../../../../../../../src/assets/watches img/Watche29.png",
+      "brand" : "Rolex",
+      "model" : "Yacht-Master",
+      "price" : "$11,000",
+      "modelNumber" : "4600E/110A-B488",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche2.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche12.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche22.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche32.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche42.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche52.png"
+       }
+      ],
+      "SKU" : "478782"
+    },
+    {
+      "id" : 30,
+      "img" : "../../../../../../../../src/assets/watches img/Watche30.png",
+      "brand" : "Omega",
+      "model" : "Globemaster",
+      "price" : "$9,000",
+      "modelNumber" : "4600E/110A-B443",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche33.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche43.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche53.png"
+       }
+      ],
+      "SKU" : "478766"
+    },
+    {
+      "id" : 31,
+      "img" : "../../../../../../../../src/assets/watches img/Watche31.png",
+      "brand" : "Akrivia",
+      "model" : "AK-06",
+      "price" : "$21,000",
+      "modelNumber" : "4600E/110A-B433",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche29.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche39.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche49.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche59.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche19.png"
+       }
+      ],
+      "SKU" : "478711"
+    },
+    {
+      "id" : 32,
+      "img" : "../../../../../../../../src/assets/watches img/Watche32.png",
+      "brand" : "Zenith",
+      "model" : "El Primero",
+      "price" : "$8,900",
+      "modelNumber" : "4600E/110A-B483",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche15.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche45.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+       }
+      ],
+      "SKU" : "478714"
+    },
+    {
+      "id" : 33,
+      "img" : "../../../../../../../../src/assets/watches img/Watche33.png",
+      "brand" : "Timex",
+      "model" : "Ironman",
+      "price" : "$300",
+      "modelNumber" : "4600E/110A-B482",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche7.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche27.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche17.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche37.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche47.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche57.png"
+       }
+      ],
+      "SKU" : "478723"
+    },
+    {
+      "id" : 34,
+      "img" : "../../../../../../../../src/assets/watches img/Watche34.png",
+      "brand" : "Oris",
+      "model" : "ProDiver",
+      "price" : "$4,700",
+      "modelNumber" : "4600E/110A-B481",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche4.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche14.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche24.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche34.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche44.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche54.png"
+       }
+      ],
+      "SKU" : "478762"
+    },
+    {
+      "id" : 35,
+      "img" : "../../../../../../../../src/assets/watches img/Watche35.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR 03",
+      "price" : "$4,200",
+      "modelNumber" : "4600E/110A-B483",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche11.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche21.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche31.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche41.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche51.png"
+       }
+      ],
+      "SKU" : "478751"
+    },
+    {
+      "id" : 36,
+      "img" : "../../../../../../../../src/assets/watches img/Watche36.png",
+      "brand" : "Oris",
+      "model" : "Divers Sixty-Five",
+      "price" : " $2,500",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche8.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche18.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche28.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche38.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche48.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche58.png"
+       }
+      ],
+      "SKU" : "478714"
+    },
+    {
+      "id" : 37,
+      "img" : "../../../../../../../../src/assets/watches img/Watche37.png",
+      "brand" : "Omega",
+      "model" : "Aqua Terra",
+      "price" : "$8,000",
+      "modelNumber" : "4600E/110A-B432",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche33.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche43.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche53.png"
+       }
+      ],
+      "SKU" : "478710"
+    },
+    {
+      "id" : 38,
+      "img" : "../../../../../../../../src/assets/watches img/Watche38.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR S",
+      "price" : "$3,000",
+      "modelNumber" : "4600E/110A-B401",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche2.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche22.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche32.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche42.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche52.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche12.png"
+       }
+      ],
+      "SKU" : "478792"
+    },
+    {
+      "id" : 39,
+      "img" : "../../../../../../../../src/assets/watches img/Watche39.png",
+      "brand" : "Zenith",
+      "model" : "Elite",
+      "price" : "$8,000",
+      "modelNumber" : "4600E/110A-B400",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche19.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche29.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche39.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche49.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche50.png"
+       }
+      ],
+      "SKU" : "478722"
+    },
+    {
+      "id" : 40,
+      "img" : "../../../../../../../../src/assets/watches img/Watche40.png",
+      "brand" : "Swatch",
+      "model" : "Irony",
+      "price" : "$800",
+      "modelNumber" : "4600E/110A-B488",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche10.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche20.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche30.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche40.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche50.png"
+       }
+      ],
+      "SKU" : "478731"
+    },
+    {
+      "id" : 41,
+      "img" : "../../../../../../../../src/assets/watches img/Watche41.png",
+      "brand" : "Akrivia",
+      "model" : "Chronomètre Contemporain",
+      "price" : "$18,000",
+      "modelNumber" : "4600E/110A-B489",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche60.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche53.png"
+       }
+      ],
+      "SKU" : "478714"
+    },
+    {
+      "id" : 42,
+      "img" : "../../../../../../../../src/assets/watches img/Watche42.png",
+      "brand" : "Omega",
+      "model" : "De Ville",
+      "price" : "$4,500",
+      "modelNumber" : "4600E/110A-B481",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche21.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche11.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche31.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche41.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche51.png"
+       }
+      ],
+      "SKU" : "478709"
+    },
+    {
+      "id" : 43,
+      "img" : "../../../../../../../../src/assets/watches img/Watche43.png",
+      "brand" : "Rolex",
+      "model" : "Oyster Perpetua",
+      "price" : "$7,000",
+      "modelNumber" : "4600E/110A-B400",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche18.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche28.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche38.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche48.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche58.png"
+       }
+      ],
+      "SKU" : "478760"
+    },
+    {
+      "id" : 44,
+      "img" : "../../../../../../../../src/assets/watches img/Watche44.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR-X1",
+      "price" : "$1,000",
+      "modelNumber" : "4600E/110A-B434",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche4.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche22.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche24.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche54.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche60.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+       }
+      ],
+      "SKU" : "478749"
+    },
+    {
+      "id" : 45,
+      "img" : "../.././../../../../src/assets/watches img/Watche45.png",
+      "brand" : "Timex",
+      "model" : "Expedition",
+      "price" : "$8,000",
+      "modelNumber" : "4600E/110A-B407",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche2.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche12.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche22.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche32.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche52.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche42.png"
+       }
+      ],
+      "SKU" : "478733"
+    },
+    {
+      "id" : 46,
+      "img" : "../../../../../../../../src/assets/watches img/Watche46.png",
+      "brand" : "Zenith",
+      "model" : "El Primero",
+      "price" : "$8,900",
+      "modelNumber" : "4600E/110A-B412",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche59.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche39.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche49.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche19.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche29.png"
+       }
+      ],
+      "SKU" : "478742"
+    },
+    {
+      "id" : 47,
+      "img" : "../../../../../../../../src/assets/watches img/Watche47.png",
+      "brand" : "Omega",
+      "model" : "Constellation",
+      "price" : "$5,500",
+      "modelNumber" : "4600E/110A-B422",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche15.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche45.png"
+       }
+      ],
+      "SKU" : "478716"
+    },
+    {
+      "id" : 48,
+      "img" : "../../../../../../../../src/assets/watches img/Watche48.png",
+      "brand" : "Swatch",
+      "model" : "Skin",
+      "price" : "$70",
+      "modelNumber" : "4600E/110A-B427",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche33.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche43.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche53.png"
+       }
+      ],
+      "SKU" : "478781"
+    },
+    {
+      "id" : 49,
+      "img" : "../../../../../../../../src/assets/watches img/Watche49.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR 03",
+      "price" : "$4,200",
+      "modelNumber" : "4600E/110A-B488",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche11.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche21.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche31.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche41.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche51.png"
+       }
+      ],
+      "SKU" : "478754"
+    },
+    {
+      "id" : 50,
+      "img" : "../../../../../../../../src/assets/watches img/Watche50.png",
+      "brand" : "Rolex",
+      "model" : "GMT-Master II",
+      "price" : "$12,000",
+      "modelNumber" : "4600E/110A-B437",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche4.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche44.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche24.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche34.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche54.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche14.png"
+       }
+      ],
+      "SKU" : "478700"
+    },
+    {
+      "id" : 51,
+      "img" : "../../../../../../../../src/assets/watches img/Watche51.png",
+      "brand" : "Cartier",
+      "model" : "Drive de Cartier",
+      "price" : "$800",
+      "modelNumber" : "4600E/110A-B417",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche34.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche53.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche43.png"
+       }
+      ],
+      "SKU" : "478702"
+    },
+    {
+      "id" : 52,
+      "img" : "../../../../../../../../src/assets/watches img/Watche52.png",
+      "brand" : "Akrivia",
+      "model" : "Tourbillon",
+      "price" : "$6,800",
+      "modelNumber" : "4600E/110A-B477",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche19.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche29.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche39.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche49.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche59.png"
+       }
+      ],
+      "SKU" : "478704"
+    },
+    {
+      "id" : 53,
+      "img" : "../../../../../../../../src/assets/watches img/Watche53.png",
+      "brand" : "Zenith",
+      "model" : "Defy Xtreme",
+      "price" : "$15,000",
+      "modelNumber" : "4600E/110A-B407",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche7.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche17.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche27.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche37.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche47.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche57.png"
+       }
+      ],
+      "SKU" : "478743"
+    },
+    {
+      "id" : 54,
+      "img" : "../../../../../../../../src/assets/watches img/Watche54.png",
+      "brand" : "Cartier",
+      "model" : "Santos",
+      "price" : "$7,000",
+      "modelNumber" : "4600E/110A-B488",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche8.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche18.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche28.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche38.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche48.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche58.png"
+       }
+      ],
+      "SKU" : "478713"
+    },
+    {
+      "id" : 55,
+      "img" : "../../../../../../../../src/assets/watches img/Watche55.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR 05",
+      "price" : "$5,000",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche11.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche21.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche31.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche41.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche51.png"
+       }
+      ],
+      "SKU" : "478759"
+    },
+    {
+      "id" : 56,
+      "img" : "../../../../../../../../src/assets/watches img/Watche56.png",
+      "brand" : "Swatch",
+      "model" : "Big Bold",
+      "price" : "$90",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche15.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche45.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+       }
+      ],
+      "SKU" : "478714"
+    },
+    {
+      "id" : 57,
+      "img" : "../../../../../../../../src/assets/watches img/Watche57.png",
+      "brand" : "Timex",
+      "model" : "Weekender",
+      "price" : "$5,300",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche2.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche22.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche32.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche42.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche52.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche12.png"
+       }
+      ],
+      "SKU" : "478700"
+    },
+    {
+      "id" : 58,
+      "img" : "../../../../../../../../src/assets/watches img/Watche58.png",
+      "brand" : "Oris",
+      "model" : "Williams",
+      "price" : "$28,000",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche7.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche17.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche27.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche37.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche47.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche57.png"
+       }
+      ],
+      "SKU" : "478729"
+    },
+    {
+      "id" : 59,
+      "img" : "../../../../../../../../src/assets/watches img/Watche59.png",
+      "brand" : "Omega",
+      "model" : "Speedmaster",
+      "price" : "$6,000",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche60.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche10.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche20.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche30.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche40.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche41.png"
+       }
+      ],
+      "SKU" : "478711"
+    },
+    {
+      "id" : 60,
+      "img" : "../../../../../../../../src/assets/watches img/Watche60.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR 03-92",
+      "price" : "$4,000",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche29.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche59.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche19.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche39.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche49.png"
+       }
+      ],
+      "SKU" : "478794"
+    },
+    {
+      "id" : 61,
+      "img" : "../../../../../../../../src/assets/watches img/Watche61.png",
+      "brand" : "Zenith",
+      "model" : "Defy Inventor",
+      "price" : "$14,000",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche4.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche24.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche14.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche54.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche44.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche34.png"
+       }
+      ],
+      "SKU" : "478704"
+    }
+  ],
+
+
+
+  "TimexWatches" : [
+    {
+      "id" : 1,
+      "img" : "../../../../../../../../src/assets/watches img/Watche57.png",
+      "brand" : "Timex",
+      "model" : "Weekender",
+      "price" : "$5,300",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche15.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche45.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+       }
+      ],
+      "SKU" : "478700"
+    },
+    {
+      "id" : 2,
+      "img" : "../../../../../../../../src/assets/watches img/Watche45.png",
+      "brand" : "Timex",
+      "model" : "Expedition",
+      "price" : "$8,000",
+      "modelNumber" : "4600E/110A-B407",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche6.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche16.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche26.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche36.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche46.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche56.png"
+       }
+      ],
+      "SKU" : "478733"
+    },
+    {
+      "id" : 3,
+      "img" : "../../../../../../../../src/assets/watches img/Watche33.png",
+      "brand" : "Timex",
+      "model" : "Ironman",
+      "price" : "$300",
+      "modelNumber" : "4600E/110A-B482",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche10.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche20.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche30.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche40.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche50.png"
+       }
+      ],
+      "SKU" : "478723"
+    },
+    {
+      "id" : 4,
+      "img" : "../../../../../../../../src/assets/watches img/Watche26.png",
+      "brand" : "Timex",
+      "model" : "Waterbury",
+      "price" : "$120",
+      "modelNumber" : "4600E/110A-B436",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche4.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche14.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche24.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche34.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche44.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche54.png"
+       }
+      ],
+      "SKU" : "478705"
+    },
+    {
+      "id" : 5,
+      "img" : "../../../../../../../../src/assets/watches img/Watche20.png",
+      "brand" : "Timex",
+      "model" : "Ironman",
+      "price" : "$75,00",
+      "modelNumber" : "4600E/110A-B431",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche8.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche18.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche28.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche38.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche48.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche58.png"
+       }
+      ],
+      "SKU" : "478714"
+  },
+  {
+    "id" : 6,
+      "img" : "../../../../../../../../src/assets/watches img/Watche16.png",
+      "brand" : "Timex",
+      "model" : "Weekender",
+      "price" : "$40",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche2.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche22.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche32.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche42.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche52.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche12.png"
+       }
+      ],
+      "SKU" : "478700"
+  },
+  {
+    "id" : 7,
+      "img" : "../../../../../../../../src/assets/watches img/Watche12.png",
+      "brand" : "Timex",
+      "model" : "Fairfield",
+      "price" : "$70",
+      "modelNumber" : "4600E/110A-B408",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche19.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche29.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche39.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche49.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche59.png"
+       }
+      ],
+      "SKU" : "478757"
+  }
+  ],
+
+
+
+  "RolexWatches" : [
+    {
+      "id" : 1,
+      "img" : "../../../../../../../../src/assets/watches img/Watche5.png",
+      "brand" : "Rolex",
+      "model" : "GMT-Master II",
+      "price" : "$12,000",
+      "modelNumber" : "4600E/110A-B454",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche4.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche14.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche24.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche34.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche44.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche54.png"
+       }
+      ],
+      "SKU" : "478714"
+  },
+  {
+    "id" : 2,
+    "img" : "../../../../../../../../src/assets/watches img/Watche11.png",
+    "brand" : "Rolex",
+    "model" : "Oyster Perpetua",
+    "price" : "$7,000",
+    "modelNumber" : "4600E/110A-B411",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche15.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche45.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+       }
+      ],
+    "SKU" : "478753"
+  },
+  {
+    "id" : 3,
+    "img" : "../../../../../../../../src/assets/watches img/Watche15.png",
+    "brand" : "Rolex",
+    "model" : "Yacht-Master",
+    "price" : "$11,000",
+    "modelNumber" : "4600E/110A-B478",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche6.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche16.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche26.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche36.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche46.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche56.png"
+       }
+      ],
+    "SKU" : "478773"
+  },
+  {
+    "id" : 4,
+    "img" : "../../../../../../../../src/assets/watches img/Watche23.png",
+    "brand" : "Rolex",
+    "model" : "Explorer",
+    "price" : "$9,000",
+    "modelNumber" : "4600E/110A-B404",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche33.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche43.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche53.png"
+       }
+      ],
+    "SKU" : "478724"
+  },
+  {
+    "id" : 5,
+      "img" : "../../../../../../../../src/assets/watches img/Watche1.png",
+      "brand" : "Rolex",
+      "model" : "GMT-Master II",
+      "price" : "$12,000",
+      "modelNumber" : "4600E/110A-B480",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche8.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche18.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche28.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche38.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche48.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche58.png"
+       }
+      ],
+      "SKU" : "478714"
+},
+{
+  "id" : 6,
+      "img" : "../../../../../../../../src/assets/watches img/Watche29.png",
+      "brand" : "Rolex",
+      "model" : "Daytona",
+      "price" : "$15,000",
+      "modelNumber" : "4600E/110A-B488",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche7.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche17.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche27.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche37.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche47.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche57.png"
+       }
+      ],
+      "SKU" : "478782"
+},
+{
+  "id" : 7,
+      "img" : "../../../../../../../../src/assets/watches img/Watche43.png",
+      "brand" : "Rolex",
+      "model" : "Submariner",
+      "price" : " $10,000",
+      "modelNumber" : "4600E/110A-B400",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche15.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche45.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+       }
+      ],
+      "SKU" : "478760"
+},
+{
+  "id" : 8,
+      "img" : "../../../../../../../../src/assets/watches img/Watche50.png",
+      "brand" : "Rolex",
+      "model" : "Datejust 41",
+      "price" : "$11,500",
+      "modelNumber" : "4600E/110A-B437",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche6.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche16.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche26.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche36.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche46.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche56.png"
+       }
+      ],
+      "SKU" : "478700"
+}
+
+  ],
+
+
+  "OmegaWatches" : [
+    {
+      "id" : 1,
+      "img" : "../../../../../../../../src/assets/watches img/Watche2.png",
+      "brand" : "Omega",
+      "model" : "Speedmaster",
+      "price" : "$6,000",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche19.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche29.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche49.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche59.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche39.png"
+       }
+      ],
+      "SKU" : "478715"
+  },
+  {
+    "id" : 2,
+    "img" : "../../../../../../../../src/assets/watches img/Watche6.png",
+    "brand" : "Omega",
+    "model" : "Constellation",
+    "price" : "$5,500",
+    "modelNumber" : "4600E/110A-B443",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche33.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche43.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche53.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+       }
+      ],
+    "SKU" : "478743"
+  },
+  {
+    "id" : 3,
+    "img" : "../../../../../../../../src/assets/watches img/Watche24.png",
+    "brand" : "Omega",
+    "model" : "De Ville",
+    "price" : "$4,500",
+    "modelNumber" : "4600E/110A-B414",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche2.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche22.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche32.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche42.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche52.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche62.png"
+       }
+      ],
+    "SKU" : "478744"
+  },
+  {
+    "id" : 4,
+    "img" : "../../../../../../../../src/assets/watches img/Watche37.png",
+    "brand" : "Omega",
+    "model" : "Aqua Terra",
+    "price" : "$8,000",
+    "modelNumber" : "4600E/110A-B432",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche8.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche18.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche28.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche38.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche48.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche58.png"
+       }
+      ],
+    "SKU" : "478710"
+  },
+  {
+    "id" : 5,
+      "img" : "../../../../../../../../src/assets/watches img/Watche30.png",
+      "brand" : "Omega",
+      "model" : "Globemaster",
+      "price" : "$9,000",
+      "modelNumber" : "4600E/110A-B443",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche10.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche11.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche12.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche20.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche30.png"
+       }
+      ],
+      "SKU" : "478766"
+},
+{
+  "id" : 6,
+      "img" : "../../../../../../../../src/assets/watches img/Watche42.png",
+      "brand" : "Omega",
+      "model" : "Seamaster Planet Ocean",
+      "price" : "$1,000",
+      "modelNumber" : "4600E/110A-B481",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche7.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche17.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche27.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche37.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche47.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche57.png"
+       }
+      ],
+      "SKU" : "478709"
+},
+{
+  "id" : 7,
+      "img" : "../../../../../../../../src/assets/watches img/Watche47.png",
+      "brand" : "Omega",
+      "model" : "Seamaster Diver 300M",
+      "price" : "$7,000",
+      "modelNumber" : "4600E/110A-B422",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche15.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche45.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+       }
+      ],
+      "SKU" : "478716"
+},
+{
+  "id" : 8,
+      "img" : "../../../../../../../../src/assets/watches img/Watche59.png",
+      "brand" : "Omega",
+      "model" : "Presage",
+      "price" : "$6,000",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche6.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche16.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche26.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche36.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche46.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche56.png"
+       }
+      ],
+      "SKU" : "478711"
+}
+
+  ],
+
+
+  "ZenithWatches" : [
+    {
+      "id" : 1,
+      "img" : "../../../../../../../../src/assets/watches img/Watche3.png",
+      "brand" : "Zenith",
+      "model" : "Defy Inventor",
+      "price" : "$14,000",
+      "modelNumber" : "4600E/110A-B486",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche8.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche18.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche28.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche38.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche48.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche58.png"
+       }
+      ],
+      "SKU" : "478706"
+  },
+  {
+    "id" : 2,
+    "img" : "../../../../../../../../src/assets/watches img/Watche14.png",
+    "brand" : "Zenith",
+    "model" : "Defy Xtreme",
+    "price" : "$15,000",
+    "modelNumber" : "4600E/110A-B427",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche2.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche22.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche12.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche32.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche42.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche52.png"
+       }
+      ],
+    "SKU" : "478777"
+  },
+  {
+    "id" : 3,
+    "img" : "../../../../../../../../src/assets/watches img/Watche32.png",
+    "brand" : "Zenith",
+    "model" : "El Primero",
+    "price" : "$8,900",
+    "modelNumber" : "4600E/110A-B483",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche15.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche45.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+       }
+      ],
+    "SKU" : "478714"
+  },
+  {
+    "id" : 4,
+    "img" : "../../../../../../../../src/assets/watches img/Watche21.png",
+    "brand" : "Zenith",
+    "model" : "Elite",
+    "price" : "$8,000",
+    "modelNumber" : "4600E/110A-B487",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche31.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche51.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche41.png"
+       }
+      ],
+    "SKU" : "478718"
+  },
+  {
+    "id" : 5,
+      "img" : "../../../../../../../../src/assets/watches img/Watche39.png",
+      "brand" : "Zenith",
+      "model" : "El Primero",
+      "price" : "$8,900",
+      "modelNumber" : "4600E/110A-B400",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche33.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche43.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche53.png"
+       }
+      ],
+      "SKU" : "478722"
+},
+{
+  "id" : 6,
+      "img" : "../../../../../../../../src/assets/watches img/Watche46.png",
+      "brand" : "Zenith",
+      "model" : "Chronomaster",
+      "price" : "$13,000",
+      "modelNumber" : "4600E/110A-B412",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche10.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche20.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche30.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche40.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche50.png"
+       }
+      ],
+      "SKU" : "478742"
+},
+{
+  "id" : 7,
+      "img" : "../../../../../../../../src/assets/watches img/Watche61.png",
+      "brand" : "Zenith",
+      "model" : "Pilot Type 20",
+      "price" : "$11,000",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche4.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche14.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche24.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche32.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche42.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche52.png"
+       }
+      ],
+      "SKU" : "478704"
+},
+{
+  "id" : 8,
+      "img" : "../../../../../../../../src/assets/watches img/Watche53.png",
+      "brand" : "Zenith",
+      "model" : "El Primero",
+      "price" : "$12,000",
+      "modelNumber" : "4600E/110A-B407",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche6.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche16.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche26.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche36.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche46.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche56.png"
+       }
+      ],
+      "SKU" : "478743"
+}
+
+  ],
+
+
+
+
+  "BellRossWatches" : [
+    {
+      "id" : 1,
+      "img" : "../../../../../../../../src/assets/watches img/Watche18.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR 03-92",
+      "price" : "$4,000",
+      "modelNumber" : "4600E/110A-B480",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche19.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche29.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche39.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche49.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche59.png"
+       }
+      ],
+      "SKU" : "478733"
+  },
+  {
+    "id" : 2,
+    "img" : "../../../../../../../../src/assets/watches img/Watche27.png",
+    "brand" : "Bell & Ross",
+    "model" : "BR 05",
+    "price" : "$5,000",
+    "modelNumber" : "4600E/110A-B418",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche8.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche18.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche28.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche38.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche48.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche58.png"
+       }
+      ],
+    "SKU" : "478736"
+  },
+  {
+    "id" : 3,
+    "img" : "../../../../../../../../src/assets/watches img/Watche35.png",
+    "brand" : "Bell & Ross",
+    "model" : "BR 03",
+    "price" : "$4,200",
+    "modelNumber" : "4600E/110A-B483",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche2.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche12.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche22.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche32.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche42.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche52.png"
+       }
+      ],
+    "SKU" : "478751"
+  },
+  {
+    "id" : 4,
+    "img" : "../../../../../../../../src/assets/watches img/Watche38.png",
+    "brand" : "Bell & Ross",
+    "model" : "BR-X1",
+    "price" : "$1,000",
+    "modelNumber" : "4600E/110A-B401",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche7.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche17.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche27.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche37.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche47.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche57.png"
+       }
+      ],
+    "SKU" : "478792"
+  },
+  {
+    "id" : 5,
+      "img" : "../../../../../../../../src/assets/watches img/Watche44.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR S",
+      "price" : "$3,000",
+      "modelNumber" : "4600E/110A-B434",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche33.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche43.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche53.png"
+       }
+      ],
+      "SKU" : "478749"
+},
+{
+  "id" : 6,
+      "img" : "../../../../../../../../src/assets/watches img/Watche49.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR 03",
+      "price" : "$4,200",
+      "modelNumber" : "4600E/110A-B488",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche10.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche20.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche30.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche40.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche50.png"
+       }
+      ],
+      "SKU" : "478754"
+},
+{
+  "id" : 7,
+      "img" : "../../../../../../../../src/assets/watches img/Watche55.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR 01",
+      "price" : "$6,000",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche19.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche29.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche39.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche49.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche59.png"
+       }
+      ],
+      "SKU" : "478759"
+},
+{
+  "id" : 8,
+      "img" : "../../../../../../../../src/assets/watches img/Watche60.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR V2",
+      "price" : "$7,000",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche6.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche16.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche26.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche36.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche46.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche56.png"
+       }
+      ],
+      "SKU" : "478794"
+},
+{
+  "id" : 9,
+      "img" : "../../../../../../../../src/assets/watches img/Watche7.png",
+      "brand" : "Bell & Ross",
+      "model" : "BR 02",
+      "price" : "$8,000",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche2.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche12.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche22.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche32.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche42.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche52.png"
+       }
+      ],
+      "SKU" : "478719"
+}
+
+  ],
+
+
+
+
+  
+  "OrisWatches" : [
+    {
+      "id" : 1,
+      "img" : "../../../../../../../../src/assets/watches img/Watche58.png",
+      "brand" : "Oris",
+      "model" : "Williams",
+      "price" : "$28,000",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche4.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche14.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche24.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche34.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche44.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche54.png"
+       }
+      ],
+      "SKU" : "478729"
+  },
+  {
+    "id" : 2,
+    "img" : "../../../../../../../../src/assets/watches img/Watche36.png",
+    "brand" : "Oris",
+    "model" : "Divers Sixty-Five",
+    "price" : " $2,500",
+    "modelNumber" : "4600E/110A-B487",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche10.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche20.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche30.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche40.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche50.png"
+       }
+      ],
+    "SKU" : "478714"
+  },
+  {
+    "id" : 3,
+    "img" : "../../../../../../../../src/assets/watches img/Watche34.png",
+    "brand" : "Oris",
+    "model" : "ProDiver",
+    "price" : "$4,700",
+    "modelNumber" : "4600E/110A-B481",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche15.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche45.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+       }
+      ],
+    "SKU" : "478762"
+  },
+  {
+    "id" : 4,
+    "img" : "../../../../../../../../src/assets/watches img/Watche25.png",
+    "brand" : "Oris",
+    "model" : "Artelier",
+    "price" : "$2,200",
+    "modelNumber" : "4600E/110A-B403",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche8.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche18.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche28.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche38.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche48.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche58.png"
+       }
+      ],
+    "SKU" : "478730"
+  },
+  {
+    "id" : 5,
+      "img" : "../../../../../../../../src/assets/watches img/Watche13.png",
+      "brand" : "Oris",
+      "model" : "Divers Sixty-Five",
+      "price" : "$2,000",
+      "modelNumber" : "4600E/110A-B432",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche19.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche29.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche39.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche49.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche59.png"
+       }
+      ],
+      "SKU" : "478714"
+},
+{
+  "id" : 6,
+      "img" : "../../../../../../../../src/assets/watches img/Watche9.png",
+      "brand" : "Oris",
+      "model" : "Big Crown ProPilot",
+      "price" : "$3,000",
+      "modelNumber" : "4600E/110A-B443",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche33.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche43.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche53.png"
+       }
+      ],
+      "SKU" : "478712"
+},
+{
+  "id" : 7,
+      "img" : "../../../../../../../../src/assets/watches img/Watche4.png",
+      "brand" : "Oris",
+      "model" : "Aquis",
+      "price" : "$25,000",
+      "modelNumber" : "4600E/110A-B455",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche15.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche45.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+       }
+      ],
+      "SKU" : "478739"
+}
+
+  ],
+
+
+
+  "SwatchWatches" : [
+    {
+      "id" : 1,
+      "img" : "../../../../../../../../src/assets/watches img/Watche48.png",
+      "brand" : "Swatch",
+      "model" : "Big Bold",
+      "price" : "$90",
+      "modelNumber" : "4600E/110A-B427",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche7.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche17.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche27.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche37.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche47.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche57.png"
+       }
+      ],
+      "SKU" : "478781"
+  },
+  {
+    "id" : 2,
+    "img" : "../../../../../../../../src/assets/watches img/Watche56.png",
+    "brand" : "Swatch",
+    "model" : "Skin",
+    "price" : "$70",
+    "modelNumber" : "4600E/110A-B487",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche2.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche12.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche22.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche42.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche32.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche52.png"
+       }
+      ],
+    "SKU" : "478714"
+  },
+  {
+    "id" : 3,
+    "img" : "../../../../../../../../src/assets/watches img/Watche40.png",
+    "brand" : "Swatch",
+    "model" : "Irony",
+    "price" : "$800",
+    "modelNumber" : "4600E/110A-B488",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche43.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche33.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche53.png"
+       }
+      ],
+    "SKU" : "478731"
+  },
+  {
+    "id" : 4,
+    "img" : "../../../../../../../../src/assets/watches img/Watche22.png",
+    "brand" : "Swatch",
+    "model" : "Sistem51",
+    "price" : "$100",
+    "modelNumber" : "4600E/110A-B411",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche10.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche20.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche30.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche40.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche50.png"
+       }
+      ],
+    "SKU" : "478713"
+  },
+  {
+    "id" : 5,
+      "img" : "../../../../../../../../src/assets/watches img/Watche19.png",
+      "brand" : "Swatch",
+      "model" : "Sistem51",
+      "price" : "$200",
+      "modelNumber" : "4600E/110A-B487",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche15.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche45.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+       }
+      ],
+      "SKU" : "478714"
+},
+{
+  "id" : 6,
+      "img" : "../../../../../../../../src/assets/watches img/Watche17.png",
+      "brand" : "Swatch",
+      "model" : "Originals",
+      "price" : "$50",
+      "modelNumber" : "4600E/110A-B483",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche7.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche17.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche27.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche37.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche47.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche57.png"
+       }
+      ],
+      "SKU" : "478717"
+}
+
+  ],
+
+
+  "AkriviaWatches" : [
+    {
+      "id" : 1,
+      "img" : "../../../../../../../../src/assets/watches img/Watche52.png",
+      "brand" : "Akrivia",
+      "model" : "Tourbillon",
+      "price" : "$6,800",
+      "modelNumber" : "4600E/110A-B477",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche8.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche18.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche28.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche38.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche48.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche58.png"
+       }
+      ],
+      "SKU" : "478704"
+  },
+  {
+    "id" : 2,
+    "img" : "../../../../../../../../src/assets/watches img/Watche8.png",
+    "brand" : "Akrivia",
+    "model" : "Chronomètre Contemporain",
+    "price" : "$18,000",
+    "modelNumber" : "4600E/110A-B432",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche19.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche29.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche39.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche49.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche59.png"
+       }
+      ],
+    "SKU" : "478714"
+  },
+  {
+    "id" : 3,
+    "img" : "../../../../../../../../src/assets/watches img/Watche31.png",
+    "brand" : "Akrivia",
+    "model" : "AK-06",
+    "price" : "$21,000",
+    "modelNumber" : "4600E/110A-B433",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche4.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche14.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche24.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche34.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche54.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche44.png"
+       }
+      ],
+    "SKU" : "478711"
+  },
+  {
+    "id" : 4,
+    "img" : "../../../../../../../../src/assets/watches img/Watche41.png",
+    "brand" : "Akrivia",
+    "model" : "AK-07",
+    "price" : "$90",
+    "modelNumber" : "4600E/110A-B489",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche2.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche12.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche22.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche32.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche42.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche52.png"
+       }
+      ],
+    "SKU" : "478714"
+  }
+  ],
+
+
+  
+
+  "CartierWatches" : [
+    {
+      "id" : 1,
+      "img" : "../../../../../../../../src/assets/watches img/Watche28.png",
+      "brand" : "Cartier",
+      "model" : "Tank",
+      "price" : "$5,500",
+      "modelNumber" : "4600E/110A-B481",
+      "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche1.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche10.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche20.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche30.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche50.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche60.png"
+       }
+      ],
+      "SKU" : "478714"
+  },
+  {
+    "id" : 2,
+    "img" : "../../../../../../../../src/assets/watches img/Watche51.png",
+    "brand" : "Cartier",
+    "model" : "Ballon Bleu",
+    "price" : "$6,00",
+    "modelNumber" : "4600E/110A-B417",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche3.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche13.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche23.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche34.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche43.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche53.png"
+       }
+      ],
+    "SKU" : "478702"
+  },
+  {
+    "id" : 3,
+    "img" : "../../../../../../../../src/assets/watches img/Watche54.png",
+    "brand" : "Cartier",
+    "model" : "Drive de Cartier",
+    "price" : "$800",
+    "modelNumber" : "4600E/110A-B488",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche5.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche15.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche25.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche35.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche45.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche55.png"
+       }
+      ],
+    "SKU" : "478713"
+  },
+  {
+    "id" : 4,
+    "img" : "../../../../../../../../src/assets/watches img/Watche10.png",
+    "brand" : "Cartier",
+    "model" : "Santos",
+    "price" : "$7,000",
+    "modelNumber" : "4600E/110A-B490",
+    "imgGroup" : [
+        {
+            "id" : 1,
+            "img" : "../../../../../../../../src/assets/watches img/Watche41.png"
+        },
+      {
+          "id" : 2,
+          "img" : "../../../../../../../../src/assets/watches img/Watche17.png"
+      },
+      {
+          "id" : 3,
+          "img" : "../../../../../../../../src/assets/watches img/Watche51.png"
+           },
+           {
+          "id" : 4,
+          "img" : "../../../../../../../../src/assets/watches img/Watche61.png"
+         },
+         {
+          "id" : 5,
+          "img" : "../../../../../../../../src/assets/watches img/Watche60.png"
+       },
+       {
+          "id" : 6,
+          "img" : "../../../../../../../../src/assets/watches img/Watche9.png"
+       }
+      ],
+    "SKU" : "478769"
+  }
+
+
+  ]
+
+}

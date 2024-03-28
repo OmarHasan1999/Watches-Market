@@ -1,0 +1,61 @@
+.subscribe{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100vh;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 0%;
+    padding-right: 10%;
+    padding-top: 8%;
+}
+.subscribe h4{
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.911);
+    font-weight: 600;
+    margin-right: 70vh;
+    margin-bottom: 5vh;
+}
+.subscribe p{
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.911);
+    font-size: 14px;
+    margin-right: 25vh;
+    margin-bottom: 3.5vh;
+}
+.subscribe input{
+    border: 2px solid black;
+    width: 110vh;
+    height: 10vh;
+    padding-left: 2vh;
+    color: rgba(0, 0, 0, 0.851);
+    font-size: 15px;
+    margin-left: 28vh;
+    margin-bottom: 3.5vh;
+}
+.Sign{
+    border: 2px solid black;
+    width: 110vh;
+    height: 10vh;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.851);
+    font-size: 16px;
+    margin-left: 28vh;
+    font-weight: 300;
+    margin-bottom: 3.5vh;
+    padding-top: 2.4vh;
+    cursor: pointer;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Sign:hover{
+    background-color: black;
+    color: aliceblue;
+}
+.Sign i{
+    padding-right: 1vh;
+    font-size: 18px;
+    color: black;
+}
+.Sign:hover i{
+    color: aliceblue;
+}

@@ -1,0 +1,59 @@
+.contact{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100vh;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 0%;
+    padding-right: 10%;
+    padding-top: 8%;
+}
+.contact h4{
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.911);
+    font-weight: 600;
+    margin-right: 70vh;
+    margin-bottom: 5vh;
+    
+}
+.address{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    border-left: 0;
+    border-right: 0;
+    width: 100vh;
+    height: 27vh;
+    margin-right: -17vh;
+}
+.address p{
+    font-size: 13px;
+    font-weight: 400;
+    margin-right: 48vh;
+    margin-top: 5vh;    
+}
+.contactPhone{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    width: 100vh;
+    height: 27vh;
+    margin-right: -17vh;
+}
+.contactPhone p{
+    font-size: 13px;
+    font-weight: 500;
+    margin-right: 66vh;
+    margin-top: 5vh;   
+    text-decoration:underline; 
+}
+.contactPhone i{
+    padding-right:1vh;
+    font-size: 17px;
+}

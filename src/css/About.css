@@ -1,0 +1,26 @@
+.about{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100vh;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 0%;
+    padding-right: 10%;
+    padding-top: 8%;
+}
+.about h4{
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.911);
+    font-weight: 600;
+    margin-right: 78.5vh;
+    margin-bottom: 5vh;
+}
+.about p{
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.748);
+    font-size: 14px;
+    margin-left: 35vh;
+    margin-bottom: 3.5vh;
+    line-height: 27px;
+}
