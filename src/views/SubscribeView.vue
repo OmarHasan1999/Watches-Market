@@ -5,23 +5,14 @@
 <script>
 import MainHeader from '../components/header/MainHeader.vue';
 import SubscribePage from '../components/partials/SubscribePage.vue';
+import mixin from '../js/index';
 
 export default {
     components:{
         MainHeader,SubscribePage
     },
-    data() {
-            return {
-                  bcColor:"white",
-                  color: false
-            }
-      },
-      methods: {
-            hideSelect(){
-                  this.color = !this.color
-                  this.bcColor = this.color ? "#808080" : "white"
-            }
-      },
+    mixins:[mixin]
+
 }
 </script>
 <style lang="">

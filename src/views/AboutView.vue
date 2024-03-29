@@ -5,22 +5,12 @@
 <script>
 import MainHeader from '../components/header/MainHeader.vue'
 import AboutPage from '../components/partials/AboutPage.vue';
+import mixin from '../js/index';
 export default {
     components:{
         MainHeader,AboutPage
     },
-    data() {
-            return {
-                  bcColor:"white",
-                  color: false
-            }
-      },
-      methods: {
-            hideSelect(){
-                  this.color = !this.color
-                  this.bcColor = this.color ? "#808080" : "white"
-            }
-      },
+    mixins:[mixin]
 }
 </script>
 <style lang="">
